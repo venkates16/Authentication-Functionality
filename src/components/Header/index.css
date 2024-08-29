@@ -1,0 +1,6 @@
+/* Write your CSS code here */
+.headerContainer {
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+}
